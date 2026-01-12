@@ -1,3 +1,7 @@
+print("I like cookies")
 print("Hello I'm here for git practice - Local")
+print("Sometimes i think about how dogs are better than cats")
 print("Hello I'm here for git practice - Remote")
+print("Sometimes I realize that students don't do anything I want them to")
 print("Added during merge")
+print("Remote end")
